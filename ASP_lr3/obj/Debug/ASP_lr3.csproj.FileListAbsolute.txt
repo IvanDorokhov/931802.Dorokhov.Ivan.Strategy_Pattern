@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\bin\Debug\ASP_lr3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\bin\Debug\ASP_lr3.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\bin\Debug\ASP_lr3.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP_lr3\ASP_lr3\obj\Debug\ASP_lr3.pdb
+C:\Users\Игорь\Desktop\Strategy_pattern\ASP_lr3\bin\Debug\ASP_lr3.exe.config
+C:\Users\Игорь\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.exe
+C:\Users\Игорь\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.pdb
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\bin\Debug\ASP_lr3.exe.config
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\bin\Debug\ASP_lr3.exe
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\bin\Debug\ASP_lr3.pdb
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.csprojAssemblyReference.cache
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.Form1.resources
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.Properties.Resources.resources
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.csproj.GenerateResource.cache
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.exe
+C:\Users\ivand\Desktop\Strategy_pattern\ASP_lr3\obj\Debug\ASP_lr3.pdb
